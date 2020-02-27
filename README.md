@@ -2,9 +2,6 @@
 A hybrid mobile app designed for off-clinical urinal testing.
 
 ## Development requirements
-
- * If a developer were to set this up on their machine or a remote server, what are the technical requirements (e.g. OS, libraries, etc.)?
- * Briefly describe instructions for setting up and running the application (think a true README).
  
  - To be able to run this application in general, a few software needs to be installed prior to run the application:
      - Node.js: Download link and instructions can be found on website:
@@ -56,6 +53,5 @@ A hybrid mobile app designed for off-clinical urinal testing.
 
 - Once the application is up and running, a webpage will popup with a QR Code ready to be scanned:
     - Install **Expo Client** App on your mobile device, and then scan the code will open up the application on your mobile device.
-    - 
 
 - Now you can play around with this application just as how you would interact with the application as needed!
